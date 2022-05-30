@@ -8,3 +8,5 @@ mysql_users:
     host: "%"
     password: 12345
     priv: "notes.*:ALL"
+
+  
